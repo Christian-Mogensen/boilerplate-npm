@@ -1,6 +1,6 @@
 {
-	"author":"Chris Mog",
 	"name": "fcc-learn-npm-package-json",
+	"author":"Chris Mog",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
